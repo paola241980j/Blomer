@@ -1,0 +1,64 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 5px;
+}
+header{
+    background-color: aquamarine;
+    color: blue;
+    width: 850px;
+    height: 100px;
+    text-align: center;
+}
+table{
+
+    width: 850px;
+}
+td{
+    width: 25%;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+.cell-decorection{
+    text-align: center;
+}
+
+#cell1{
+    color: blue;
+    background-color: blueviolet;
+}
+#cell3{
+    color: red;
+    background-color: aqua;
+}
+#cell5{
+    color: blueviolet;
+    background-color: darkseagreen;
+}
+#cell7{
+    color: coral;
+    background-color: firebrick;
+}
+#cell9{
+    color: chocolate;
+    background-color: darkseagreen;
+}
+#cell11{
+    color: cyan;
+    background-color: burlywood;
+}
+#cell13{
+    color: chartreuse;
+    background-color: gold;
+}
+#cell15{
+    color: darkgoldenrod;
+    background-color: gray;
+}
+footer{
+    background-color: brown;
+    width: 850px;
+    height: 50px;
+}
